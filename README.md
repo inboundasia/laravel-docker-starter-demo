@@ -1,3 +1,5 @@
+This is a demo project for Laravel Docker Starter https://github.com/inboundasia/laravel-docker-starter
+
 # Demo Project for laravel-docker-starter
 
 1. git clone this project
